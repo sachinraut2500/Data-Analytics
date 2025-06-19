@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview]https://public.tableau.com/static/images/Da/DataAnalystpositionsinsightSACHINRAUT/Dashboard1/1.png
+(https://public.tableau.com/static/images/Da/DataAnalystpositionsinsightSACHINRAUT/Dashboard1/1.png)
 
 
 ---
