@@ -1,7 +1,4 @@
 # 📊 Data Analyst Positions Insight Dashboard (Tableau Project)
-
-[👉 View the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/sachinraut/viz/DataAnalystpositionsinsightSACHINRAUT/Dashboard1)
-
 ---
 
 ## 🖼️ Dashboard Preview
