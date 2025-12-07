@@ -13,7 +13,7 @@
 This project visualizes key trends and insights for **Data Analyst roles** in the United States, using job posting data collected from Google search results.
 
 ## 🔍 Insights Included:
-
+.
 ✅ **Average Salary by Experience Level**  
 - Entry-Level: $94,406  
 - Mid-Level: $101,655  
