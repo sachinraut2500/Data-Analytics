@@ -2,7 +2,7 @@
 ---
 
 ## 🖼️ Dashboard Preview
-
+---
 [👉 View the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/sachinraut/viz/DataAnalystpositionsinsightSACHINRAUT/Dashboard1)
 
 ![Dashboard Preview](https://raw.githubusercontent.com/sachinraut2500/Data-Analytics/main/Dashboard%201%20(7).png)
