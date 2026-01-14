@@ -6,7 +6,7 @@
 [👉 View the live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/sachinraut/viz/DataAnalystpositionsinsightSACHINRAUT/Dashboard1)
 
 ![Dashboard Preview](https://raw.githubusercontent.com/sachinraut2500/Data-Analytics/main/Dashboard%201%20(7).png)
-
+-
 --------
 
 This project visualizes key trends and insights for **Data Analyst roles** in the United States, using job posting data collected from Google search results.
