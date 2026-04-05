@@ -55,7 +55,7 @@ This project visualizes key trends and insights for **Data Analyst roles** in th
 - Job postings pulled from **Google Search Results**  
 - Focused on **Data Analyst positions** in the United States
 
----
+-----
 
 ## 🎯 Project Goal
 
