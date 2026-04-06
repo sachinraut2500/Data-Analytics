@@ -48,7 +48,7 @@ This project visualizes key trends and insights for **Data Analyst roles** in th
 | Excel        | 3.55%    |
 | Tableau      | 4.10%    |
 
---------------
+----------------
 
 ## 📂 Data Source
 
