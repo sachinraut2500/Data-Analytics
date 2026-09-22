@@ -33,7 +33,7 @@ This project visualizes key trends and insights for **Data Analyst roles** in th
 - Upwork: 16.56%  
 - Trabajo.org: 8.67%  
 - ZipRecruiter: 7.00%
-
+---
 ✅ **Technical Skills Demand**  
 | Skill        | % Demand |
 |--------------|----------|
